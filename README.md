@@ -7,7 +7,7 @@ Actualmente cursando ultimos semestre en la carrera de Ing. En Software
 
 En este repositorio podras encontrar algunos proyectos desde aplicaciones de escritorios, aplicaciones web y hasta diarios de aprendizaje, espero que te sea de ayuda viajero 😁:
 
-## Tecnologias y herramientas:**
+## Tecnologias y herramientas:
 
 <p align="center">
   <a href="https://skillicons.dev">
